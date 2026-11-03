@@ -1,5 +1,4 @@
-# Advanced DSA Interview Practice 🚀
-
+# Advanced DSA Interview Practice 
 A collection of advanced Data Structures and Algorithms problems solved in Java, focused on cracking technical interviews at top product-based companies.
 
 ##  Focus Areas
