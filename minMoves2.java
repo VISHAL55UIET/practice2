@@ -17,21 +17,16 @@ class Solution{
 public class minMoves2{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         Solution sol = new Solution();
-
         // Test Case 1
         int[] nums1 = {1, 2, 3};
         System.out.println(sol.minMoves2(nums1)); // 2
-
         // Test Case 2
         int[] nums2 = {1, 10, 2, 9};
         System.out.println(sol.minMoves2(nums2)); // 16
-
         // Test Case 3
         int[] nums3 = {1, 0, 0, 8, 6};
         System.out.println(sol.minMoves2(nums3)); // 14
-
         // Custom Input
         System.out.println("Enter array size:");
         int n = sc.nextInt();
