@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     private static class MultiSet {
-
         TreeMap<Integer, Integer> counts = new TreeMap<>();
         int size = 0;
         long sum = 0;
