@@ -1,8 +1,7 @@
-# Advanced DSA Interview Practice 🚀
-
+# Advanced DSA Interview Practice 
 A collection of advanced Data Structures and Algorithms problems solved in Java, focused on cracking technical interviews at top product-based companies.
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 - Advanced Dynamic Programming
 - Graph Algorithms
@@ -18,10 +17,10 @@ A collection of advanced Data Structures and Algorithms problems solved in Java,
 - Meet in the Middle
 - Computational Geometry
 
-## 💻 Language
+##  Language
 - Java
 
-## 🎯 Objective
+##  Objective
 
 - Master advanced problem-solving patterns.
 - Solve challenging interview-level problems.
